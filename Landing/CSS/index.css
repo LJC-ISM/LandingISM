@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@500&family=Finlandica:ital,wght@1,700&display=swap');
+.fondo{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.breadcrumb-item {
+    color: white;
+}
+
+.logo{
+    background-color: #383838;
+    text-align: center;
+    padding: 20px;
+}
+
+.presentación{
+    margin: 50px;
+    padding: 20px;
+    border-style: double;
+    background-color: rgba(240, 248, 255, 0.836);
+}
+.caracteristicas{
+    background-color: rgba(240, 248, 255, 0);
+    border-style: double;
+}
+
+h1,h2 {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Finlandica', sans-serif;
+    color: #199EB8;
+}
+
+p{
+    font-family: 'Arima', cursive;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
+
+.contacto{    
+    padding: 0;
+}
+
+.stats-row {
+    margin-top: 65px;
+}
+
+.stats-col .circle {
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    color: #666;
+    border: 8px solid #199EB8;
+    border-radius: 50%;
+    padding: 30px 25px 0 25px;
+}
+
+.infoCirculo{
+    padding: 20px 19px 0 19px;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+}
+
+.icon {
+    width: 80px;
+    height: 80px;
+}
+
+.separador{
+    margin: 50px;
+}
+
+.tarjeta{
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+
+footer {
+    background-color: #383838;
+    color: aliceblue;
+}
+
+.row{
+    text-align: center;
+    justify-content: center;
+}
+.col{
+    justify-content: middle;
+}
