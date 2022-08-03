@@ -1,0 +1,110 @@
+.bodyy {
+    background-color: rgb(10, 10, 10);
+}
+
+.breadcrumb-item {
+    color: white;
+}
+
+main {
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.card-title {
+    color: coral;
+}
+
+.card-subtitle {
+    color: burlywood
+}
+
+.mostrar-inicio {
+    text-align: center;
+    color: white;
+}
+
+.DivCryptos {
+    text-align: center;
+}
+
+.DivNFTs {
+    text-align: center;
+}
+
+.NFT {
+    width: 90px;
+    height: 90px;
+}
+
+.DivTrade {
+    text-align: center;
+}
+
+.separador {
+    color: darkslategrey
+}
+
+.tabla-registros,
+th,
+td,
+tr {
+    border: 1px solid;
+    color: white;
+}
+
+td:hover {
+    background-color: darkkhaki;
+}
+
+.tabla-registros {
+    margin: auto;
+}
+
+.texto-paginas {
+    color: white;
+}
+
+footer {
+    background-color: grey;
+    color: darkkhaki;
+    border: solid;
+}
+
+.Info {
+    color: black;
+}
+
+.colortext {
+    color: black;
+}
+
+.subtext {
+    color: aquamarine
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+}
+
+
+.caja {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: #ffffff;
+    background: #2c3034;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 3px solid #009fba;
+}

@@ -1,0 +1,65 @@
+.bodyy {
+    background-color: rgb(10, 10, 10);
+    margin: auto;
+}
+
+.breadcrumb-item {
+    color: white;
+}
+
+main {
+    background-color: rgb(10, 10, 10);
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.tabla-registros,
+th,
+td,
+tr {
+    border: 1px solid;
+    color: white;
+}
+
+td:hover {
+    background-color: darkkhaki;
+}
+
+.tabla-registros {
+    margin: auto;
+}
+
+.texto-paginas {
+    color: white;
+}
+
+footer {
+    background-color: grey;
+    color: darkkhaki;
+    border: solid;
+}
+
+.Info {
+    color: black;
+}
+
+.colorr {
+    color: white;
+}
+
+.colortext {
+    color: black;
+}
+
+.tama {
+    width: 120%;
+}
+
+.form-floating {
+    margin-bottom: 20px;
+}

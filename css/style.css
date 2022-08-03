@@ -1,0 +1,182 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@500&family=Finlandica:ital,wght@1,700&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+header{
+    background-color: #383838;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-bottom: 1px solid #dee2e6;
+    position: sticky;
+    text-align: center;
+    top:0px;
+    z-index: 10;
+}
+
+nav ul{
+    padding-right: 20px;
+    list-style-type: none;
+    display: flex;
+}
+
+.logo{
+    background-color: #383838;
+    text-align: center;
+    padding: 20px;
+    margin-right:auto;
+}
+
+.presentación{
+    margin-top: 20px;
+    margin-left:1px;
+    margin-right:1px;
+    border-style: double;
+    background-color: rgba(240, 248, 255, 0.836);
+}
+.caracteristicas{
+    background-color: rgba(240, 248, 255, 0);
+    border-style: double;
+}
+
+h1,h2 {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Finlandica', sans-serif;
+    color: #199EB8;
+    margin: 20%;
+}
+
+p{
+    font-family: 'Arima', cursive;
+    font-size: 18px;
+    text-align: center;
+    padding:8px;
+    color: black;
+}
+
+.stats-col .circle {
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    color: #666;
+    border: 8px solid #199EB8;
+    border-radius: 50%;
+    padding: 30px 25px 0 25px;
+}
+
+.infoCirculo{
+    margin-left: 10px;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+}
+
+.icon {
+    width: 80px;
+    height: 80px;
+}
+
+.separador{
+    margin: 50px;
+}
+
+.tarjeta{
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.card-body h5{
+    font-size:19px;
+    margin-top: 25px;
+}
+
+footer {
+    background-color: #383838;
+    color: aliceblue;
+}
+
+.row{
+    text-align: center;
+    justify-content: center;
+}
+.col{
+    justify-content: middle;
+}
+
+/* SECCIÓN DE INDEX (Correciones)*/
+.pIndex{
+    margin: 10px;
+}
+/* SECCIÓN DE CRIPTOMONEDAS*/ 
+.intro{
+    text-align: center;
+}
+.intro img{
+    width:45%;
+}
+
+.intro p{
+    justify-content: center;
+}
+.tokens{
+    width: 90px;
+    height: 90px;
+}
+
+td,thead{
+    text-align: center;
+}
+.simboloCripto {
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 11px;
+}
+/* SECCIÓN DE NFT's*/ 
+.intro{
+    text-align: center;
+}
+.nft {
+    width: 150px;
+    height: 150px;
+}
+.intro h1 p{
+    width: 99%;
+}
+
+.valorNFT{
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 15px;
+    color: #666;
+}
+.valorNFT img{
+    width: 20px;
+    height: 20px;
+}
+
+/* SECCIÓN DE INTERCAMBIOS*/
+
+.motivos{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.compatibilidadTrade{
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 20px;
+    color: #666;
+}

@@ -1,0 +1,74 @@
+    .bodyy {
+        background-color: rgb(10, 10, 10);
+    }
+    
+    .breadcrumb-item {
+        color: white;
+    }
+    
+    main {
+        background-color: black;
+    }
+    
+    h2 {
+        text-align: center;
+        color: white;
+    }
+    
+    .DivTradeos {
+        text-align: center;
+    }
+    
+    .tabla-registros,
+    th,
+    td,
+    tr {
+        border: 1px solid;
+        color: white;
+    }
+    
+    td:hover {
+        background-color: darkkhaki;
+    }
+    
+    .tabla-registros {
+        margin: auto;
+    }
+    
+    .texto-paginas {
+        color: white;
+    }
+    
+    footer {
+        background-color: grey;
+        color: darkkhaki;
+        border: solid;
+    }
+    
+    .Info {
+        color: black;
+    }
+    
+    .colortext {
+        color: black;
+    }
+    
+    .card-body {
+        font-size: 30px;
+        color: whitesmoke;
+        border-radius: 5px;
+    }
+    
+    .card-title {
+        color: coral;
+    }
+    
+    .card-text {
+        font-family: 'Open Sans';
+        color: antiquewhite;
+        align-items: center;
+        display: flex;
+        height: 100px;
+        width: 100;
+        justify-content: center;
+    }
